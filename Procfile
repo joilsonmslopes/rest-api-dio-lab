@@ -1,0 +1,1 @@
+web: java -jar target/rest-api-dio-0.0.1-SNAPSHOT.jar
